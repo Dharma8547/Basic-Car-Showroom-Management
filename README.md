@@ -3,10 +3,11 @@ A basic Car showroom management where people can check the cars and they can sub
 
 #Skills Required:
 
-HTML
-CSS
-Java Script
-Hands on MongoDB and its environment.
+1. HTML
+2. CSS
+3. Java Script
+4. MongoDB
+5. Cassandra
 
 #Method-1:
 #Installation:
